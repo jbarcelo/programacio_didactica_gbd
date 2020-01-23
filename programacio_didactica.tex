@@ -11,8 +11,7 @@
 
 \title{Una programació didàctica de \\
 gestió de bases de dades\\
-        \vspace{10mm}
-	\includegraphics[width=14cm]{database.eps}
+	\includegraphics[width=10cm]{database.eps}
 	}
 
 \author{
@@ -468,14 +467,13 @@ Aquestes notes s'utilitzaran per a calcular la nota final de l'alumne.
 El conjunt de tasques i el conjunt d'examens tenen el mateix pes.
 En qualsevol cas, l'avaluació serà un procés individualitzat on el professor tendrà en compte tota la interacció amb l'alumnat durant el curs així com els criteris d'avaluació descrits a la Secció \ref{sec:resultats}.
 
+\begin{figure}
+\centering
 \begin{tikzpicture}[mindmap, grow cyclic, every node/.style=concept, concept color=orange!40, 
-	level 1/.append style={level distance=5cm,sibling angle=90},
-	level 2/.append style={level distance=3cm,sibling angle=90},
-	level 3/.append style={level distance=3cm,sibling angle=45},]
+	level 1/.append style={level distance=5cm,sibling angle=45},
+	level 2/.append style={level distance=3cm,sibling angle=45},]
 
-\node{Proves avaluables}
-	child { node {Tasques en grup}}
-	child { node {Exàmens individuals}
+\node{Exàmens}
 	  child{ node {Suport}
 	    child{ node {Ordinador}}
 	    child{ node {Paper}}
@@ -485,9 +483,10 @@ En qualsevol cas, l'avaluació serà un procés individualitzat on el professor 
 	    child{ node {Oberta}}
 	    child{ node {Screenshot}}
 	  }
-	}
 ;
 \end{tikzpicture}
+\caption{Classificació dels exàmens individuals segons el tipus de suport i el tipus de resposta.} \label{fig:M1}
+\end{figure}
 
 \section{Recursos materials}
 TBD.
