@@ -1,6 +1,7 @@
 \documentclass[catalan, a4paper, 12pt, titlepage]{article}
 \usepackage{babel}
 \usepackage{graphicx}
+\usepackage{fontawesome5}
 \graphicspath{ {./img/} }
 \usepackage{mathptmx}
 \renewcommand{\baselinestretch}{1.5}
@@ -21,7 +22,7 @@ gestió de bases de dades\\
 \author{
 	Jaume Barceló Vicens
 	DNI 43135949R\\
-	Professors d'ensenyament secudari (0590)\\
+	Professors d'ensenyament secundari (0590)
 	Especialitat informàtica}
 
 \date{
@@ -29,13 +30,20 @@ gestió de bases de dades\\
 	Cicle formatiu de grau superior d’Administració de Sistemes Informàtics en Xarxa\\
 	Mòdul professional de gestió de bases de dades\\
 	Codi 0372 170h (+90h d'anglès)\\
-	http://github.com/jbarcelo/programacio\_didactica\_gbd}
+	http://github.com/jbarcelo/programacio\_didactica\_gbd \\
+	Llicència CC-BY-SA 4.0 \faCreativeCommons\ \faCreativeCommonsBy\ \faCreativeCommonsSa}
+
+\setcounter{tocdepth}{1}
 
 \begin{document}
+
+\pagestyle{empty}
 
 \maketitle
 
 \tableofcontents 
+
+\pagestyle{plain}
 
 \section{Introducció}
 
@@ -922,7 +930,15 @@ TBD.
 És de gran utilitat tenir un llibre de referència per al curs.
 Per una banda, ajuda al professor a preparar millor el curs.
 Per una altra, és un recurs addicional per a l'alumne per a poder seguir el curs de manera més autònoma.
-Una possibilitat que es va considerar és \cite{montalban2014}.
+Un llibre d'interès és \cite{montalban2014}.
+L'avantatge d'aquest llibre és que s'ajusta molt al currículum oficial.
+
+El llibre que s'ha adoptat com a referència per a aquest curs és \cite{silbershatz2020}.
+És un dels llibres de bases dades més reconeguts i s'utilitza a multitud de centres d'arreu del món.
+Els diferents conceptes es van introduint amb gran rigor i claretat.
+El desavantatge que té aquest llibre és que està orientat a un curs universitari i, per tant, no s'ajusta tan bé al currículum de la formació professional.
+Per tant, en el nostre curs no veurem tot allò que és el llibre.
+A més, completarem el llibre amb altres materials més pràctics com per exemple la documentació de postgresql.
 
 \begin{thebibliography}{9}
 \bibitem{silbershatz2020} 
@@ -935,19 +951,5 @@ I. López Montalbán, M. de Castro Vázquez
 \textit{Gestión de Bases de Datos}. 
 Editorial Garceta
 
-\bibitem{latexcompanion} 
-Michel Goossens, Frank Mittelbach, and Alexander Samarin. 
-\textit{The \LaTeX\ Companion}. 
-Addison-Wesley, Reading, Massachusetts, 1993.
-
-\bibitem{einstein} 
-Albert Einstein. 
-\textit{Zur Elektrodynamik bewegter K{\"o}rper}. (German) 
-[\textit{On the electrodynamics of moving bodies}]. 
-Annalen der Physik, 322(10):891–921, 1905.
-
-\bibitem{knuthwebsite} 
-Knuth: Computers and Typesetting,
-\\\texttt{http://www-cs-faculty.stanford.edu/\~{}uno/abcde.html}
 \end{thebibliography}
 \end{document}
