@@ -81,7 +81,7 @@ gestió de bases de dades\\
 	http://github.com/jbarcelo/programacio\_didactica\_gbd \\
 	Llicència CC-BY-SA 4.0 \faCreativeCommons\ \faCreativeCommonsBy\ \faCreativeCommonsSa}
 
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{1}
 
 \begin{document}
 
@@ -93,13 +93,44 @@ gestió de bases de dades\\
 
 \pagestyle{fancy}
 
-\section{Introducció}
+\section{Introducció.}
 
 Aquesta és la programació didàctica del mòdul ``Gestió de bases de dades'' (codi 0372) del cicle formatiu de ``Tècnic superior en administració de sistemes i xarxes'' que s'imparteix al CIFP Francesc de Borja Moll el curs escolar 2021-2022.
 
 Aquesta programació tracta de reflectir l'experiència de la impartició d'aquest mateix mòdul durant el curs 2019-2020. A més, aquesta programació didàctica es presenta com una guia oberta i flexible, sobre la que es poden fer tants canvis com siguin necessaris per adaptar-se a la realitat del grup d'alumnes i del curs en general.
 
+Aquest document s'organitza en seccions.
+Les primeres seccions són necessàriament genèriques i descriuen la progrmación en el seu conjunt.
+No és fins a la sección \ref{sec:unitats} que tenim l'oportunitat de particulartizar per a cada una de les unitats didàctiques, concretant tots els aspectes que s'han descrit en les primeres seccions.
+
+La secció \ref{sec:normativa} recull el marc normatiu en el que es fonamenta aquesta programació.
+Seguidament, a la secció \ref{sec:contextualització} descrivim el contexte en que s'impartirà aquesta assignatura.
+Aquesta assignatura està dissenyada per a poder impartir-se en un grup de dual.
+A més, disposam de 90 hores addicionals per impartir l'assignatura en anglès.
+
+A continuació, la secció \ref{sec:continguts} detalla els objectius, competències i continguts tal com apareixen a la normativa.
+La concrecció d'aquests continguts arribarà més endavant a l'hora de descriure les unitats didàctiques.
+
+Els procediments d'avaluació s'introdueixen de manera general a la secció \ref{sec:procediments} i els instruments a la secció \ref{sec:instruments}.
+De manera semblant a allò que passava amb els continguts, aquests procediments i instruments es concretaran en cada una de les unitats didàctiques.
+
+Les activitats es descriuen de manera genèrica a la secció \ref{sec:activitats}.
+Una vegada més, haurem d'esperar a les unitats didàctiques per tractar activitats concretes.
+
+La metodologia descrita a la secció \ref{sec:metodologia} s'ajusta a la realitat del centre i del grup.
+En particular, es tracta d'una metodologia centrada en l'alumne.
+L'alumne serà protagonista i responsable del procés del d'ensenyament-aprenentatge.
+Tot seguit, a la secció \ref{sec:activitats_coherents} descriurem com són aquestes activitats coherents amb la metodologia proposada.
+També es descriu el model d'activitat oberta, que adapta el nivell de dificultat a l'estudiant.
+
+La distribució temporal de les unitats didàctiques es troba a la secció \ref{sec:distribució} i el detall de les unitats didàctiques, que particulartiza tots els aspectes descrits anteriorment, a la secció \ref{sec:unitats}.
+
+A la secció \ref{sec:diversitat} explicarem la nostra manera de treballar l'atenció a la diversitat i, finalment, les conclusions es troben a la secció \ref{sec:conclusió}.
+
+La calendarització orientativa s'inclou a l'apèndix \ref{app:schedule}.
+
 \section{Normativa.}
+\label{sec:normativa}
 
 Aquesta programació s'ha desenvolupat tenint en compte la següent normativa estatal:
 \begin{itemize}
@@ -123,7 +154,8 @@ Finalment, en l'àmbit del centre, considerem la següent normativa:
 	\item Projecte educatiu de centre (PEC) que planteja les intencions educatives i organitzatives del CIFP: las seva missió, visió i valors. I que inclou com a annexos el projecte lingüístic, el reglament d'organització i funcionament i la concreció curricular del centre.
 \end{itemize}
 
-\section{Contextualització}
+\section{Contextualització.}
+\label{sec:contextualització}
 
 Aquesta programació didàctica és per al mòdul Gestió de Bases de Dades del Cicle Formatiu de Grau Superior d'Administració de Sistemes Informàtics i Xarxes del Centre Integrat de Formació Professional Francesc de Borja Moll. 
 
@@ -139,14 +171,29 @@ Per una altra banda, a vegades pot ser difícil coordinar i posar d'acord tanta 
 
 Un dels avantatges que suposa estar en un centre gran és que és possible per al professor impartir el mateix mòdul a diferents grups i, per tant, concentrar esforços.
 Per exemple, el mateix professor pot tenir els grups d'ASIX i ASIX dual.
+
+\subsection{Aprenentatge-ensenyament en anglès.}
+
+Es tracta d'un mòdul en anglès i això pot representar una dificultat addicional per a qualcuns estudiants.
+El professor haurà de ser comprensiu, traduir tot allò que sigui necessari i animar als alumnes a que s'ajudin entre ells per a afrontar aquest repte.
+L'anglès és molt necessari per a un professional de la informàtica ja que es tracta d'un àmbit molt globalitzat.
+Encara més en un contexte turístic com el de les Illes Balears.
+Per aquest motiu, tot el temps dedicat a l'ensenyament-aprenentatge de l'anglès és un temps ben invertit.
+Aquesta programació ja presenta qualcunes seccions en anglès, en concordància amb allò que serà el mòdul.
+
+\subsection{Aprenentatge-ensenyament dual.}
+
 De totes maneres, el grup d'ASIX dual presenta certes particularitats ja que s'ha d'incorporar a la feina a mig curs i, en conseqüencia, reduir el temps que passa a l'institut.
 L'alumnat haurà d'aprendre al lloc de feina part dels continguts i les competències del mòdul.
+Això vol dir que el professor haurà de ser flexible en el sentit que allò que fan els estudiants al centre de treball escapa, en part al seu control.
+
 A més, durant els primers mesos de classe s'ha de proporcionar a l'alumnat de dual la formació necessària perquè pugui afrontar amb èxit les entrevistes i la incorporació al lloc de feina.
 Al mateix temps, s'ha de tenir prou flexibilitat per redirigir el curs en cas que la incorporació a l'empresa no sigui possible per qualque esdeveniment inesperat, com per exemple una pandèmia.
 
 \section{Objectius. Competències. Continguts.}
+\label{sec:continguts}
 
-\subsection{Objectius generals}
+\subsection{Objectius generals.}
 
 Els objectius generals estableixen les capacitats que s'espera que els alumnes hagin assolit a final de curs. Segons el títol de tècnic superior en administració de sistemes informàtics en xarxa, s'estableixen els següents objectius. S'han marcat amb un símbol (\faCheck) aquells que es corresponen al mòdul de gestió de base de dades.
 
@@ -194,7 +241,7 @@ Els objectius generals estableixen les capacitats que s'espera que els alumnes h
 
 Els objectius generals als que contribueix el mòdul de gestió de bases de dades són: 4, 5 i 13.
 
-\subsection{Competències professionals, personals i socials}
+\subsection{Competències professionals, personals i socials.}
 
 Les competències professionals, personals i socials d'aquest títol són les que es relacionen a continuació. 
 S'han marcat amb un símbol les que es corresponen al mòdul de gestió de base de dades.
@@ -243,9 +290,9 @@ S'han marcat amb un símbol les que es corresponen al mòdul de gestió de base 
 
 El mòdul de gestió de bases de dades contribueix a assolir les competències 3,4 i 13.
 
-\subsection{Continguts i Orientacions Pedagògiques}
+\subsection{Continguts i Orientacions Pedagògiques.}
 
-\subsubsection{Continguts bàsics}
+\subsubsection{Continguts bàsics.}
 
 Sistemes d'emmagatzematge de la informació:
 
@@ -369,7 +416,7 @@ Les línies d'actuació en el procés d'ensenyament-aprenentatge que permeten as
 
 - L'assegurament de la informació.
 
-\subsection{Connexió amb altres mòduls}
+\subsection{Connexió amb altres mòduls.}
 
 Tot i que el cicle es divideix en mòduls de temàtica diferent, les competències i els continguts estan interconnectats.
 
@@ -386,27 +433,28 @@ Tot i que el cicle es divideix en mòduls de temàtica diferent, les competènci
 	\item Empresa i iniciativa emprenedora. Un coneixement profund de les bases de dades permet als alumnes pensar en la possibilitat de crear empreses per a oferir serveis a tercers. Aquests serveis poden ser també en la forma de consultoria.
 \end{itemize}
 
-\subsection{Elements transversals}
+\subsection{Elements transversals.}
 
 S'han elegit uns elements transversals per a treballar en aquest mòdul.
 
-\subsubsection{Respecte pels valors cívics}
+\subsubsection{Respecte pels valors cívics.}
 
 Es començarà per l'exemple del professor i es fomentarà el tracte igualitari i el respecte mutu. També són importants les bones pràctiques professionals i la transparència per a que la feina dels informàtics sigui beneficionsa per al conjunt de la comunitat.
 
-\subsubsection{Hàbits de vida saludable}
+\subsubsection{Hàbits de vida saludable.}
 
 S'evitaran en la mesura possible les situacions estressants i es facilitarà un bon ambient de feina on els alumnes puguin tenir els descansos necessaris per assegurar un bon rendiment i una bona salut.
 
-\subsubsection{Foment de la lectura}
+\subsubsection{Foment de la lectura.}
 
 Els estudiants hauran de ser els protagonistes del procés d'ensenyament aprenentatge i això significa que hauran de llegir molt de material més enllà del que ofereix el professor. Es tractarà, en la seva majoria, de material tècnic.
 
-\subsubsection{Millora de la capacitat d'expressió oral i escrita}
+\subsubsection{Millora de la capacitat d'expressió oral i escrita.}
 
 Es valoraran els esforços de l'alumnat per millorar l'expressió oral i escrita. Especialment si ho fan en anglès, que és l'idioma de l'assignatura.
 
 \section{Procediments d'avaluació.}
+\label{sec:procediments}
 
 L'avaluació \cite{coll2017} són les accions del procés d'ensenyamet-aprenentatge que:
 
@@ -418,7 +466,7 @@ L'avaluació \cite{coll2017} són les accions del procés d'ensenyamet-aprenenta
 
 Els procediments d'avaluació descrits a la Subsecció \ref{subsec:procediments} s'usaran en combinació amb els criteris d'avaluació descrits a la normativa.
 
-\subsection{Resultats d'aprenentatge i criteris d'avaluació}
+\subsection{Resultats d'aprenentatge i criteris d'avaluació.}
 \label{subsec:resultats}.
 
 Els resultats d'aprenentatge i els seus corresponents criteris d'avaluació del mòdul de Gestió de Bases de Dades són els següents.
@@ -541,7 +589,7 @@ g) S'ha interpretat correctament la informació subministrada pels missatges d'e
 
 h) S'ha transferit informació entre sistemes gestors.
 
-\subsection{Procediments d'avaluació per als criteris d'avaluació}
+\subsection{Procediments d'avaluació per als criteris d'avaluació.}
 \label{subsec:procediments}
 
 Al procediment clàssic on el professor avalua a l'alumne afegirem:
@@ -636,7 +684,7 @@ En qualsevol cas, l'avaluació serà un procés individualitzat on el professor 
 
 Per a aquells alunes que no aprovin l'avaluació contínua es preparà un exàmen de recuperació ordinària al mes de juny i un examen de recuperació extrordinària. Cada un d'aquests exàmes tracta tot allò que s'ha fet durant el mòdul i, per tant, són exigents a causa del seu abast. Els alumnes han de saber el mecanisme habitual per aprovar el mòdul és l'avaluació contínua i els examens de recuperació són un mecanisme excepcional.
 
-\subsection{Avaluació de la tasca docent}
+\subsection{Avaluació de la tasca docent.}
 
 De manera trimestral es demanarà als alumnes que reflexionin sobre el mòdul i la tasca docent. Aquesta informació s'utilitzarà per a intentar reorientar i millorar el mòdul en els trimestres següents i en les pròximes edicions del curs. 
 
@@ -649,7 +697,8 @@ De manera trimestral es demanarà als alumnes que reflexionin sobre el mòdul i 
 
 
 
-\section{Activitats.}
+\section{Activitats per al desenvolupament de competències.}
+\label{sec:activitats}
 
 Les activitats inclouen material per l'autoavaluació, tasques avaluables pel professor i exàmens.
 Aquestes activitats són diverses.
@@ -663,6 +712,7 @@ A la secció \ref{sec:instruments} ja hem detallat com són els exàmens.
 La secció \ref{sec:continguts} detalla les activitats de cada una de les unitats didàctiques mentre que la calendarització orientativa es troba a l'appèndix \ref{app:schedule}.
 
 \section{Metodologia.}
+\label{sec:metodologia}
 
 Segons el Real Decret 1147/2011, de 29 de juliol, pel que s'estableix l'ordenació general de formació professional del sistema educatiu, la metodologia didàctica de les ensenyances de formació professional integrarà els aspectes científics, tecnològics i organitzatius que correponguin en cada cas, amb la finalitat que l'alumnat adquireixi una visió global dels processos productius de l'activitat professional corresponent.
 
@@ -682,6 +732,28 @@ De totes maneres cada parella es responsabilitza de realitzar la seva tasca de m
 
 No és acceptable que una parella es divideixi la pràctica en dues parts i cada membre treballi de manera independent sense conèixer allò que fa l'altre. 
 Cada integrant de la parella ha de tenir un coneixement total de la seva pràctica i ser capaç de respondre les preguntes del professor i de la resta de companys de classe.
+
+\subsection{Presencial, semipresencial i a distància.}
+
+Una programació didàctica ha de ser prou àgil per adaptar-se als diferents escenaris de presencilalitat.
+A causa d'una pandèmia o per altres motius, és possible que part o la totalitat dels alumnes no puguin assistir a part o la totalitat de les classes presencials.
+Per aquest motiu s'ha dissenyat un curs que permet el seu seguiment en els escenaris semipresencial i d'ensenyament a distància.
+
+\subsection{Recursos materials.}
+
+L'ordre EDU/392/2010 per la que s'estableix el currículum del cicle formatiu de Grau Superior corresponent al títol de Tècnic Superior en Administració de Sistemes Informàtics en Xarxa, en el seu annex IV, especifica els espais i equipaments mínims per al cicle.
+
+A la pràctica, es necessita un ordinador amb connexió a internet i prou potent per poder utilitzar un navegador modern. També un compte de \emph{g-suite for education} per a cada alumne. S'utilitzarà google classroom com a plataforma d'e-learning i google cloudshell per a la realització de les pràctiques. És desitjable que els ordinadors puguin executar contenidors i màquines virtuals per tenir una alternativa a google cloudshell. Per a les proves en paper es necessitarà un bolígraf.
+
+També es necessita un projector i una pissarra.
+
+En cas de semipresencialitat o ensenyament a distància s'emprarà també una eina de comunicació addicional, com per exemple el discord.
+
+\section{Activitats coherents amb la metodologia.}
+\label{sec:activitats_coherents}
+
+Tal com hem dit anteriorment, l'objectiu metodològic és que els alumnes siguin protagonistes de l'assignatura.
+En aquests sentit, s'han preparat pràctiques que són coherents amb aquesta metodologia i són obertes perquè l'alumne pugui prendre, en part, l'iniciativa.
 
 Les pràctiques que es plantegen normalment tenen dues parts.
 La primera part és formada per una sèrie de requisits plantejats pel professor i que la pràctica ha de complir. 
@@ -707,23 +779,9 @@ Evidentment, els alumnes no poden demanar allargar els terminis d'entrega si no 
 
 S'intenta establir un clima de diàleg i consens per tal que la càrrega de feina de l'assignatura sigui proporcional al número d'hores assignades setmanalment.
 
-\subsection{Presencial, semipresencial i a distància}
-
-Una programació didàctica ha de ser prou àgil per adaptar-se als diferents escenaris de presencilalitat.
-A causa d'una pandèmia o per altres motius, és possible que part o la totalitat dels alumnes no puguin assistir a part o la totalitat de les classes presencials.
-Per aquest motiu s'ha dissenyat un curs que permet el seu seguiment en els escenaris semipresencial i d'ensenyament a distància.
-
-\subsection{Recursos materials}
-
-L'ordre EDU/392/2010 per la que s'estableix el currículum del cicle formatiu de Grau Superior corresponent al títol de Tècnic Superior en Administració de Sistemes Informàtics en Xarxa, en el seu annex IV, especifica els espais i equipaments mínims per al cicle.
-
-A la pràctica, es necessita un ordinador amb connexió a internet i prou potent per poder utilitzar un navegador modern. També un compte de \emph{g-suite for education} per a cada alumne. S'utilitzarà google classroom com a plataforma d'e-learning i google cloudshell per a la realització de les pràctiques. És desitjable que els ordinadors puguin executar contenidors i màquines virtuals per tenir una alternativa a google cloudshell. Per a les proves en paper es necessitarà un bolígraf.
-
-També es necessita un projector i una pissarra.
-
-En cas de semipresencialitat o ensenyament a distància s'emprarà també una eina de comunicació addicional, com per exemple el discord.
 
 \section{Distribució temporal.}
+\label{sec:distribució}
 
 Segons l'annex II de l'Ordre EDU/392/2010, de 20 de gener, per la que s'estableix el currículum del cicle formatiu de Grau Superior corresponent al títol de Tècnic Superior en Administració de Sistemes Informàtics en Xarxa, al mòdul de gestió de Bases de Dades li correponen 170 hores de duració. A aquestes hores se li han de sumar les 90 reservades als mòduls impartits en anglès. El total és de 260 hores.
 
@@ -757,7 +815,7 @@ La Taula \ref{tab:distribuciotemporal} mostra la proposta de distribució tempor
 La calendarització orientativa, allò que tenim planificat fer cada dia de classe, es presenta a l'appèndix \ref{app:schedule}.
 
 \section{Continguts, activitats i recursos per a les unitats didàctiques.}
-\label{sec:continguts}
+\label{sec:unitats}
 
 A l'hora de dissenyar un curs introductori de base de dades, hi ha dues aproximacions possibles.
 La primera, potser més habitual a la formació professional, és programar el disseny de base dades (entitat relació, relacional) abans que el llenguatge SQL.
@@ -773,9 +831,9 @@ Aquest coneixement previ els permet comprendre millor les unitats de treball rel
 
 A continuació es descriuen cada una de les dotze unitats de treball d'aquesta programació.
 
-  \subsection{Unit 1: Introduction to Databases}
+  \subsection{Unit 1: Introduction to Databases.}
   
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
 
   \begin{itemize}
 	  \item Database-System Applications
@@ -793,7 +851,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item History of Database Systems
   \end{itemize}
   
-  \subsubsection{Material}
+  \subsubsection{Material.}
 
   \begin{itemize}
           \item Slides 1-1 Introduction to Databases.
@@ -802,9 +860,9 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Test 1 Introduction to Databases.
   \end{itemize}
 
-  \subsection{Unit 2: Introduction to the Relational Model}
+  \subsection{Unit 2: Introduction to the Relational Model.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
 
   \begin{itemize}
 	  \item Structure of Relational Databases
@@ -815,7 +873,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Relational Operations
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
 
   \begin{itemize}
           \item Slides 2-1 Introduction to the Relational Model.
@@ -826,9 +884,9 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Test 2 Introduction to the Relational Model.
   \end{itemize}
 
-  \subsection{Unit 3: Introduction to SQL 1}
+  \subsection{Unit 3: Introduction to SQL 1.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	  \item Overview of the SQL Query Laguage
 	  \item SQL Data Definition
@@ -837,7 +895,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Set Operations
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
 
   \begin{itemize}
 	  \item Slides 3-1 Introduction to SQL 1.
@@ -847,9 +905,9 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Test 3 Introduction to SQL 1.
   \end{itemize}
 
-  \subsection{Unit 4: Introduction to SQL 2}
+  \subsection{Unit 4: Introduction to SQL 2.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	  \item Null Values
 	  \item Aggregate Functions (\faGraduationCap Evaluation criteria) 4c
@@ -857,7 +915,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Modifications of the Database
   \end{itemize}
   
-  \subsubsection{Material}
+  \subsubsection{Material.}
 
   \begin{itemize}
 	  \item Slides 4-1 Introduction to SQL 2.
@@ -867,9 +925,9 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Test 4 Introduction to SQL 2.
   \end{itemize}
 
-  \subsection{Unit 5: Intermediate SQL 1}
+  \subsection{Unit 5: Intermediate SQL 1.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
 
   \begin{itemize}
 	  \item Join Expressions
@@ -877,7 +935,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Transactions
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
 
   \begin{itemize}
 	  \item Slides 5-1 Intermediate SQL 1.
@@ -890,16 +948,16 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Test 5 Intermediate SQL 1.
   \end{itemize}
 
-  \subsection{Unit 6: Intermediate SQL 2}
+  \subsection{Unit 6: Intermediate SQL 2.}
   
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	  \item Integrity Constraints
 	  \item Data Types
 	  \item Authorization
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Slides 6-1 Intermediate SQL 1.
 	  \item Material 6-1 Referential integrity and data types.
@@ -914,30 +972,30 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
   \end{itemize}
   
 
-  \subsection{Unit 7: Advanced SQL 1}
+  \subsection{Unit 7: Advanced SQL 1.}
   
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	  \item SQL statements in a java application
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Material 7-1 SQL statements in a java application.
 	  \item Assignment 7-1 JDBC Project.
 	  \item Assignment 7-2 JDBC Project Video Explanation and Demonstration.
   \end{itemize}
 
-  \subsection{Unit 8: Advanced SQL 2}
+  \subsection{Unit 8: Advanced SQL 2.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	  \item Cursors
 	  \item Procedures
 	  \item Triggers
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Material 8-1 PostgreSQL.
 	  \item Material 8-2 PostgreSQL Stored Procedures Getting Started. (\faGraduationCap Evaluation criteria) 5e.
@@ -949,9 +1007,9 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Assignment 8-4 Defend your Cursor, Procedure and Trigger.
   \end{itemize}
 
-  \subsection{Unit 9: Database Design. The E-R Model 1}
+  \subsection{Unit 9: Database Design. The E-R Model 1.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	  \item Entity-Relationship Model
 	  \item Entity-Relationship Diagram
@@ -960,7 +1018,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	  \item Extended E-R, Generalization and Specialization
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Slides 9-1.
 	  \item Material 9-1 E-R Diagram Tool.
@@ -971,12 +1029,12 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 
   \subsection{Unit 10: Database Design. E-R Model to Relational Model.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	\item Reduction to Relational Schemas
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Slides 10-1
 	  \item Assignment 10-1 ERM to Relational Model. (\faGraduationCap Evaluation criteria) 2c, 2d, 2e, 2f, 2g, 2i, 3e, 3f, 3g, 3h, 3i.
@@ -985,7 +1043,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 
   \subsection{Unit 11: Database Design. Normalization.}
 
-  \subsubsection{Contents}
+  \subsubsection{Contents.}
   \begin{itemize}
 	\item Functional Dependency
 	\item Fully Functional Dependency
@@ -995,7 +1053,7 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	\item Boyce-Codd Normal Form
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Slides 11-1(Simplified).
 	  \item Slides 11-2.
@@ -1016,14 +1074,15 @@ A continuació es descriuen cada una de les dotze unitats de treball d'aquesta p
 	\item NoSQL databases.
   \end{itemize}
 
-  \subsubsection{Material}
+  \subsubsection{Material.}
   \begin{itemize}
 	  \item Assignment 12-1 Advanced Topics. (\faGraduationCap Evaluation criteria 6a, 6b, 6c, 6d, 6e, 6f, 6g, 6h).
 	  \item Material 12-1 NoSQL.
   \end{itemize}
 
 
-\section{Mesures per a l'atenció a la diversitat}
+\section{Mesures per a l'atenció a la diversitat.}
+\label{sec:diversitat}
 
 Al tractar-se d'un ensenyament post-obligatori no es contempla la possibilitat de prendre mesures d'adaptació curricular significatives. Es prendran mesures que no impliquin una modificació substancial del currículum amb l'assessorament del departament d'orientació.
 
@@ -1048,44 +1107,44 @@ Els que un dia són ajudats en una altra ocasió potser seran ajudants i així e
 Finalment, es comença a treballar amb un model que és molt habitual en el món de les tecnologies de la informació anomenat ``meritocràcia''.
 En una meritocràcia, aquells que més aporten al projecte es guanyen el respecte dels companys i la seva veu és escoltada amb especial atenció a l'hora de prendre decisions.
 
-\section{Conclusió}
+\section{Conclusió.}
+\label{sec:conclusió}
 
-Aquesta programació didàctica descriu la planificació per al mòdul de gestió de bases de dades en anglès.
-Està contextualitzada per a un cicle en concret (ASIX) d'un centre en concret (CIFP Francesc de Borja Moll).
+Aquesta programació didàctica es fonamenta en la normativa vigent i es contextualitza per a un grup específic, un grup d'ASIX dual del CIFP Francesc de Borja Moll.
+Les característiques més significatives són l'ensenyament-aprenentatge en anglès i dual, on el estudiants passen part del temps a l'empresa.
 
-El marc legal ens marca uns objectius, unes competències, i uns resultats d'aprenentatge lligats a uns criteris d'avaluació.
+Els continguts del marc normatiu s'han ajusta a la programació i s'han proposat procediments d'avaluació per als criteris d'avaluació del títol.
 
-Quant a metodologies, hem prioritzat aquelles reforcen el protagonisme dels alumnes.
+Els instruments d'avaluació són variats:
+individuals i en grup,
+de resposta oberta i tancada,
+fets amb l'ordinador o a mà,
+presentats de manera escrita o oral.
+El motiu és fer una avaluació amb un gran abast.
+En altres paraules, si un alumne té dificultats amb un aspecte concret de l'avaluació (per exemple, l'expressió oral), aquestes dificultats es veuran compensades per les seves fortaleses en els altres mecanismes d'avaluació.
+A més, es mantendrà un clima de diàleg i flexibilitat perquè els alumnes puguin avaluar la tasca docent i fer suggeriments per millorar-la.
+
+La metodologia adoptada és ``aprendre fent'' (learn by doing), altrament anomenada problem-based-learning o project-based-learning.
+Es proposaran activitats o reptes als estudiants que cobrirar els diferent continguts del mòdul.
+Els alumnes hauràn d'assolir les competències i els objectius marcats a la normativa per a ser capaços de completar aquestes tasques.
+Hem prioritzat aquelles reforcen el protagonisme dels alumnes (ensenyament-aprenentatge basat en l'alumne).
 Trantant-se de formació professional, és adequat assignar tasques als alumnes que s'aproximen a les que es podrà trobar en el centre de treball.
 Per descomptat, en un entorn favorable per a l'aprenentatge amb el suport dels companys de classe i del professor.
 
 La distribució temporal és orientativa i flexible.
 Es pot anar ajustar depenent dels alumnats, els coneixements previs que disposen o el seu interés per les diferents temàtiques.
 S'ha decidit tractar primer les unitats de treball relacionades amb SQL i posteriorment aquelles que estan relacionades amb el disseny de les bases de dades.
-El motiu és que les tasques que es trobaran al incorporar-se al centre de treball probablement estaran relacionades amb queries sobre una base de dades existent més que no en el disseny de noves bases de dades, que habitualment són tasques reservades als analistes o personal amb més experiència.o
+El motiu és que les tasques que es trobaran al incorporar-se al centre de treball probablement estaran relacionades amb queries sobre una base de dades existent més que no en el disseny de noves bases de dades, que habitualment són tasques reservades als analistes o personal amb més experiència.
 
-Els continguts i les orientacions pedagògiques ens venen marcats per la normativa.
-Tot i això, sempre hi ha un poc de marge per emfatitzar aquells aspectes que creguem que poden ser de més interés en funció de les tecnologies més utilitzades per les organitzacions on s'incorporaran els alumnes a treballar.
+L'atenció a la diversitat es treballarà a dos nivells.
+El primer, afavorint el treball en grup i que aquells estudiants més avançats ajudin a aquells que necessiten més atenció.
+El segon, plantejant activitats parcialment obertes on cadasqú pugui explorar aspectes diferents en funció dels seus interessos o situació personal.
+Les activitats obertes acomoden de manera la diversitat permetent que els alumnes les desenvolupin en funció de les seves possibilitats.
 
-Quant a l'avaluació s'ha optat per tenir en compte tant les tasques com els exàmens.
-A més, les tasques i els exàmens seran de naturalesa diferent.
-El motiu és fer una avaluació amb un gran abast.
-En altres paraules, si un alumne té dificultats amb un aspecte concret de l'avaluació (per exemple, l'expressió oral), aquestes dificultats es veuran compensades per les seves fortaleses en els altres mecanismes d'avaluació.
-A més, es mantendrà un clima de diàleg i flexibilitat perquè els alumnes puguin avaluar la tasca docent i fer suggeriments per millorar-la.
+Els continguts del mòdul s'han organitzat en 12 unitats de treball.
+Cada una d'ells es composa de materials, tasques (assignments) i proves (tests) d'acord amb les metodologies exposades anteriorment.
 
-Així mateix, es farà una atenció personalitzada per a l'alumnat.
-També s'animarà al suport mutu dins el grup perquè els mateixos alumnes participin en l'atenció a la diversitat en la mesura possible.
-
-Es mantendrà un diàleg obert amb l'alumnat i altres professors per reforçar la interconnexió entre els diferents mòduls.
-Tot i que per motius pràctics els continguts del cicle s'organitzen en mòduls independents, en realitat tots aquests continguts presenten lligams per es poden aprofitar per a oferir una millor experiència d'ensenyament-aprenentatge.
-
-A més dels continguts propis del cicle, es treballaran uns elements transversals que són també de gran importància per a la formació de l'alumnat. 
-S'han elegit el resepecte pels valors cívics, els hàbits de vida saludable, el foment de la lectura de la documentació tècnica i la generació de documentació escrita i la seva presentació de manera oral.
-
-Els continguts del cicle s'han organitzat en 12 unitats de treball.
-Cada una d'elles es composa de materials, tasques (assignments) i proves (tests) d'avaluació.
-
-\section{Bibliografia}
+\section{Bibliografia.}
 
 És de gran utilitat tenir un llibre de referència per al curs.
 Per una banda, ajuda al professor a preparar millor el curs.
@@ -1121,7 +1180,7 @@ McGraw Hill Education
 
 \appendix
 
-\section{Tentative Schedule}
+\section{Calendarització orientativa.}
 \label{app:schedule}
 
 \paragraph*{Tentative Schedule:}
