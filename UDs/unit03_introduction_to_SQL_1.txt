@@ -1,0 +1,56 @@
+1. Context de la UT
+	- Introducció de la UT
+		- Títol: Introduction to SQL 1
+		- Durada: 20 hores. De 24.10 a 11.11.
+		- Activitats relacionades amb els següents
+			- Continguts
+				- Overview of the SQL Query Laguage
+				- SQL Data Definition
+				- Basic Structure of SQL Queries
+				- Schema Diagrams
+				- Additional Basic Operations
+				- Set Operations
+			- Resultats d'aprenentatge
+				- RA3 Realitza el disseny físic de bases de dades utilitzant assistents, eines gràfiques i el llenguatge de definició de dades.
+				- 3a S'han definit les estructures físiques d'emmagatzematge.
+				- 3b S'han creat taules. 
+				- 3c S'han seleccionat els tipus de dades adequades.
+				- 3d S'han definit els camps clau en les taules.
+				- RA4 Consulta la informació emmagatzemada manejant assistents, eines gràfiques i el llenguatge de manipulació de dades.
+				- 4a S'han identificat les eines i sentències per realitzar consultes.
+				- 4b S'han realitzat consultes simples sobre una taula.
+				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
+				- 5a S'han identificat les eines i sentències per a modificar el contingut de la base de dades.
+				- 5b S'han inserit, esborrat i actualitzat dades en les taules.
+				- 5d S'han adoptat mesures per a mantenir la integritat i consistència de la informació.
+		- Metodologia
+			- Centrada en l'alumne.
+			- Aprendre fent.
+2. Activitats didàctiques
+	- Seqüenciació i temporització
+		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
+		- 1 magistral/diapositives 100 minuts
+		- assignment 3-1 200 minuts
+		- assignment 3-2 200 minuts
+		- assignment 3-3 200 minuts
+		- repàs 100 minuts	
+		- test 100 minuts
+		- correcció 100 minuts
+	- Exemples
+	- Avaluació i qualificació
+		- Tota l'activitat és avaluable
+			- intervencions a classe
+			- tasques
+			- test
+			- avaluació professor-alumne
+			- coavaluació
+			- autoavaluació
+			- avaluació 360
+		- Qualificació
+			- 50% tasca 
+				- 50% mínim exigit
+				- 50% tasca oberta
+			- 50% test
+	- Coherència amb la programació
+		- la UT i la metodologia s'han agafat directament de la programació.
+		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
