@@ -1,0 +1,53 @@
+1.- Presentació
+	- ASIX
+	- 170 hores (+90 d'anglès)
+	- mòdul impartit el curs 2019-2020
+2.- Normativa
+	- reial decret, ordre
+	- punt de partida
+		- relacionals, MariaDB, PostgreSQL+
+		NoSQL, MongoDB, Docker
+3.- Contextualització
+	- ASIX, Borja Molls, Anglès, dual
+4.- Continguts
+	- 12 unitats de treball. 16-24 hores.
+	- SQL
+		- DDL
+		- DCL
+			- usuaris, rols, permisos
+		- DML
+			- GROUP BY, COUNT(*)
+			- subqueries
+			- join
+			- transaction
+		- procedures, function
+		- trigger
+		- cursor
+	- Disseny de DB
+		- E-R
+		- relacional
+		- transformació d'E-R a relacional
+5.- Procediments d'avaluació
+	- professor-alumne
+	- autoavaluació
+	- coavaluació
+	- avaluació 360
+6.- Instruments d'avaluació
+	- tasques
+		- a classe i a casa, temps il·limitat
+		- en parella o en grup, evitar que un es despengi
+		- amb ajuda
+		- qualcunes obertes
+	- exàmens
+		- a classe, temps limitat
+		- individual
+		- sense ajuda
+		- possibilitat de defensa oral
+7.- Aprenentatge basat en tasques. "Aprendre fent".
+	- competències, continguts
+8.- Metodologia centrada en l'alumne.
+9.- Activitats obertes per coherència metodològica.
+10.- Atenció a la diversitat
+	- activitats obertes, dificultat ajustable
+	- ajuda entre companys, win-win
+11.- Material: llibre, diapositives, tasques, altres, moodle, classroom.
