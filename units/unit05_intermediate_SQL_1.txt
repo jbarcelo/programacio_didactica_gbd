@@ -1,0 +1,51 @@
+1. Context de la UT
+	- Introducció de la UT
+		- Títol: Introduction to SQL 2
+		- Durada: 20 hores. De 12.11 a 28.11.
+		- Activitats relacionades amb els següents
+			- Continguts
+				- Null Values
+				- Aggregate Functions
+				- Nested Subqueries
+				- Modifications of the Database
+			- Resultats d'aprenentatge
+				- RA4 Consulta la informació emmagatzemada manejant assistents, eines gràfiques i el llenguatge de manipulació de dades.
+				- 4c S'han realitzat consultes que generen valors de resum.
+				- 4f S'han realitzat consultes amb subconsultes.
+				- 4g S'han valorat els avantatges i inconvenients de les diferents opcions vàlides per dur a terme una consulta determinada.
+				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
+				- 5c S'ha inclòs en una taula la informació resultant de l'execució d'una consulta.
+		- Metodologia
+			- Centrada en l'alumne.
+			- Aprendre fent.
+2. Activitats didàctiques
+	- Seqüenciació i temporització
+		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
+		- 1 magistral/diapositives 100 minuts
+		- assignment 5-1 Dockerized phpMyAdmin 100 minuts
+		- material 5-1 Join 100 minuts
+		- material 5-2 View 100 minuts
+		- material 5-3 Transactions 100 minuts
+		- material 5-4 Transactins 100 minuts
+		- assignment 5-2 Two-phase locking and snapshot isolation 100 minuts
+		- repàs 100 minuts	
+		- test 100 minuts
+		- correcció 100 minuts
+	- Exemples
+	- Avaluació i qualificació
+		- Tota l'activitat és avaluable
+			- intervencions a classe
+			- tasques
+			- test
+			- avaluació professor-alumne
+			- coavaluació
+			- autoavaluació
+			- avaluació 360
+		- Qualificació
+			- 50% tasca 
+				- 50% mínim exigit
+				- 50% tasca oberta
+			- 50% test
+	- Coherència amb la programació
+		- la UT i la metodologia s'han agafat directament de la programació.
+		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
