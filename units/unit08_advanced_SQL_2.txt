@@ -1,28 +1,34 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Advanced SQL 2
-		- Durada: 24 hores. De 24.01 a 13.02.
+		- Títol: Advanced SQL 2.
+		- Durada: 24 hores. De 14.02 a 05.03.
 		- Activitats relacionades amb els següents
 			- Continguts
-				- SQL statements in a java application
+				- Cursors
+				- Procedures
+				- Triggers
 			- Resultats d'aprenentatge
-				- RA Programa una aplicació amb java que es connecta i interactua amb una base de dades.
-				- S'ha connectat a una base de dades des d'un programa java i ha interactuat amb la base de dades.
+				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
+				- 5e S'han dissenyat guions de sentències per dur a terme tasques complexes.
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
 2. Activitats didàctiques
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
-		- material 7-1 SQL statements in a java application 100 minuts
-		- assignment 7-1 JDBC project 900 minuts
-		- assignment 7-2 JDBC project video explanation 200 minuts
+		- material 8-1 PostgreSQL 100 minutes.
+		- material 8-2 PostgreSQL Stored Procedure Getting Started 100 minutes.
+		- material 8-3 PostgreSQL Stored Procedures User Defined Functions 100 minutes.
+		- material 8-4 PostgreSQL Stored Procedures Control Structures 100 minutes.
+		- assignment 8-1 Create a funtion 200 minutes.
+		- assignment 8-2 Function defense 200 minutes.
+		- assignment 8-3 Create a cursor, a stored procedure and a trigger 200 minutes.
+		- assignment 8-4 Defend your cursor, procedure and trigger 200 minutes.
 	- Exemples
 	- Avaluació i qualificació
 		- Tota l'activitat és avaluable
 			- intervencions a classe
 			- tasques
-			- test
 			- avaluació professor-alumne
 			- coavaluació
 			- autoavaluació

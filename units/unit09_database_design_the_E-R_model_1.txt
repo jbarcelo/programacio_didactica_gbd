@@ -1,28 +1,33 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Advanced SQL 2
-		- Durada: 24 hores. De 24.01 a 13.02.
+		- Títol: Database Design. The E-R Model 1.
+		- Durada: 24 hores. De 06.03 a 26.03.
 		- Activitats relacionades amb els següents
 			- Continguts
-				- SQL statements in a java application
+				- Entity-Relationship Model
+				- Entity-Relationship Diagram
+				- cardinalities
+				- Weak Entities
+				- Extended E-R. Generalization and Specialization.
 			- Resultats d'aprenentatge
-				- RA Programa una aplicació amb java que es connecta i interactua amb una base de dades.
-				- S'ha connectat a una base de dades des d'un programa java i ha interactuat amb la base de dades.
+				- RA2 Dissenya models lògics normalitzats interpretant diagrames entitat / relació.
+				- 2a S'ha identificat el significat de la simbologia pròpia dels diagrames entitat / relació.
+				- 2b S'han utilitzat eines gràfiques per a representar el disseny lògic.
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
 2. Activitats didàctiques
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
-		- material 7-1 SQL statements in a java application 100 minuts
-		- assignment 7-1 JDBC project 900 minuts
-		- assignment 7-2 JDBC project video explanation 200 minuts
+		- slides 9-1 magistral 100 minutes.
+		- material 9-1 E-R diagram tool 200 minutes.
+		- assignment 9-1 Create an ERD 700 minutes.
+		- assignment 9-2 Defend your ERD 200.
 	- Exemples
 	- Avaluació i qualificació
 		- Tota l'activitat és avaluable
 			- intervencions a classe
 			- tasques
-			- test
 			- avaluació professor-alumne
 			- coavaluació
 			- autoavaluació
