@@ -1,0 +1,42 @@
+1. Context de la UT
+	- Introducció de la UT
+		- Títol: Database Design. Normalization.
+		- Durada: 24 hores. De 28.04 a 19.05.
+		- Activitats relacionades amb els següents
+			- Continguts
+				- Functional Dependency
+				- Fully Functional Dependency
+				- First Normal Form
+				- Second Normal Form
+				- Third Normal Form
+				- Boyce Codd Normal Form
+			- Resultats d'aprenentatge
+				- RA2 Dissenya models lògics normalitzats interpretant diagrames entitat / relació.
+				- 2h S'han aplicat les regles de normalització fins a un nivell adequat.
+		- Metodologia
+			- Centrada en l'alumne.
+			- Aprendre fent.
+2. Activitats didàctiques
+	- Seqüenciació i temporització
+		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
+		- diapositives/magistrals 100 minutes.
+		- material 11-1 Exercises 500 minutes
+		- material 11-2 Solution 100 minutes
+		- assignment 10-1 Normalization 300 minutes.
+		- assignment 10-2 Defend your ERD 200.
+	- Exemples
+	- Avaluació i qualificació
+		- Tota l'activitat és avaluable
+			- intervencions a classe
+			- tasques
+			- avaluació professor-alumne
+			- coavaluació
+			- autoavaluació
+			- avaluació 360
+		- Qualificació
+			- 100% tasca 
+				- 50% mínim exigit
+				- 50% tasca oberta
+	- Coherència amb la programació
+		- la UT i la metodologia s'han agafat directament de la programació.
+		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
