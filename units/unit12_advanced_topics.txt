@@ -1,0 +1,45 @@
+1. Context de la UT
+	- Introducció de la UT
+		- Títol: Advanced Topics.
+		- Durada: 24 hores. De 21.05 a 09.06.
+		- Activitats relacionades amb els següents
+			- Continguts
+				- Backup and restoration.
+				- Import and export data.
+				- Error messages and log files.
+				- Moving data across DataBase Management Systems.
+				- NoSQL databases.
+			- Resultats d'aprenentatge
+				- RA6 Executa tasques d'assegurament de la informació, analitzant-les i aplicant mecanismes de salvaguarda i transferència.
+				- 6a S'han identificat eines gràfiques i en línia de comandes per a l'administració de còpies de seguretat.
+				- 6b S'han realitzat còpies de seguretat.
+				- 6c S'han restaurat còpies de seguretat.
+				- 6d S'han identificat les eines per a importar i exportar dades.
+				- 6e S'han exportat dades a diversos formats.
+				- 6f S'han importat dades amb diferents formats.
+				- 6g S'ha interpretat correctament la informació subministrada pels missatges d'error i els fitxers de registre.
+				- 6h S'ha transferit informació entre sistemes gestors.
+		- Metodologia
+			- Centrada en l'alumne.
+			- Aprendre fent.
+2. Activitats didàctiques
+	- Seqüenciació i temporització
+		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
+		- Assignment 12-1 advanced topics 600 minutes.
+		- Material 12-1 NoSQL 600 minutes.
+	- Exemples
+	- Avaluació i qualificació
+		- Tota l'activitat és avaluable
+			- intervencions a classe
+			- tasques
+			- avaluació professor-alumne
+			- coavaluació
+			- autoavaluació
+			- avaluació 360
+		- Qualificació
+			- 100% tasca 
+				- 50% mínim exigit
+				- 50% tasca oberta
+	- Coherència amb la programació
+		- la UT i la metodologia s'han agafat directament de la programació.
+		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
