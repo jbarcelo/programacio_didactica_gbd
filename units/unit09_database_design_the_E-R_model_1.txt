@@ -1,6 +1,6 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Database Design. The E-R Model 1.
+		- Títol: Database Design. The E-R Model.
 		- Durada: 24 hores. De 06.03 a 26.03.
 		- Activitats relacionades amb els següents
 			- Continguts
