@@ -27,24 +27,15 @@
 				- 1f S’han classificat els sistemes gestors de bases de dades.
 		- Metodologia
 			- Centrada en l'alumne.
-			- La principal activitat didàctica: tasca realitzada per l'alumne en parelles.
+			- Aprendre fent.
 2. Activitats didàctiques
-	- Seqüenciació
-		- 1 Rebuda i presentació
-		- 2 Avaluació prèvia
-			- Què en sabem de les bases de dades?
-			- Exemples de bases de dades.
-			- Motors de bases de dades.
-		- 3 magistral/diapositives
-		- 4 tasca
-		- 5 repàs	
-		- 6 test
-		- 7 correcció	
-		- 3 i 4 intercalades
-	- Temporització
+	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
 		- 1 Rebuda i presentació 50 minuts
 		- 2 Avaluació prèvia 50 minuts
+			- Què en sabem de les bases de dades?
+			- Exemples de bases de dades.
+			- Motors de bases de dades.
 		- 3 magistral/diapositives 100 minuts
 		- 4 tasca 400 minuts
 		- 5 repàs 100 minuts	
@@ -67,4 +58,4 @@
 			- 50% test
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
-		- atenció a la diversitat: lloc de l'aula, temps addicional, ajuda dels companys, activitat oberta
+		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

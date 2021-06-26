@@ -1,20 +1,17 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Introduction to SQL 2
-		- Durada: 20 hores. De 12.11 a 28.11.
+		- Títol: Intermediate SQL 2.
+		- Durada: 20 hores. De 19.12 a 23.01.
 		- Activitats relacionades amb els següents
 			- Continguts
-				- Null Values
-				- Aggregate Functions
-				- Nested Subqueries
-				- Modifications of the Database
+				- Integrity Constraints
+				- Data Types
+				- Authorization
 			- Resultats d'aprenentatge
-				- RA4 Consulta la informació emmagatzemada manejant assistents, eines gràfiques i el llenguatge de manipulació de dades.
-				- 4c S'han realitzat consultes que generen valors de resum.
-				- 4f S'han realitzat consultes amb subconsultes.
-				- 4g S'han valorat els avantatges i inconvenients de les diferents opcions vàlides per dur a terme una consulta determinada.
 				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
-				- 5c S'ha inclòs en una taula la informació resultant de l'execució d'una consulta.
+				- 5f S'ha reconegut el funcionament de les transaccions.
+				- 5g S'han anul·lat parcialment o totalment els canvis produïts per una transacció.
+				- A més, es treballen aspectes que no aparèixen a la normativa, com autorització i rols.
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -22,9 +19,12 @@
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
 		- 1 magistral/diapositives 100 minuts
-		- material 4-1 Queries MariaDB 200 minuts
-		- material 4-2 Queries MariaDB 200 minuts
-		- material 4-3 Northwind 200 minuts
+		- material 6-1 Referential integrity and data types 100 minuts
+		- assignment 6-1 Mini-league 100 minuts
+		- material 6-2 Index importance 100 minuts
+		- material 6-3 Authorization 100 minuts
+		- material 6-4 Roles 100 minuts
+		- material 6-5 Dates 100 minuts
 		- repàs 100 minuts	
 		- test 100 minuts
 		- correcció 100 minuts
@@ -39,7 +39,8 @@
 			- autoavaluació
 			- avaluació 360
 		- Qualificació
-			- 100% test
+			- 50% tasca 
+			- 50% test
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

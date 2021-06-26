@@ -1,20 +1,19 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Introduction to SQL 2
-		- Durada: 20 hores. De 12.11 a 28.11.
+		- Títol: Intermediate SQL 1.
+		- Durada: 20 hores. De 29.11 a 17.12.
 		- Activitats relacionades amb els següents
 			- Continguts
-				- Null Values
-				- Aggregate Functions
-				- Nested Subqueries
-				- Modifications of the Database
+				- Join Expressions
+				- Views
+				- Transactions
 			- Resultats d'aprenentatge
 				- RA4 Consulta la informació emmagatzemada manejant assistents, eines gràfiques i el llenguatge de manipulació de dades.
-				- 4c S'han realitzat consultes que generen valors de resum.
-				- 4f S'han realitzat consultes amb subconsultes.
-				- 4g S'han valorat els avantatges i inconvenients de les diferents opcions vàlides per dur a terme una consulta determinada.
+				- 4d S'han realitzat consultes sobre el contingut de diverses taules mitjançant composicions internes.
+				- 4e S'han realitzat consultes sobre el contingut de diverses taules mitjançant composicions externes.
 				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
-				- 5c S'ha inclòs en una taula la informació resultant de l'execució d'una consulta.
+				- 5f S'ha reconegut el funcionament de les transaccions.
+				- 5g S'han anul·lat parcialment o totalment els canvis produïts per una transacció.
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -26,7 +25,7 @@
 		- material 5-1 Join 100 minuts
 		- material 5-2 View 100 minuts
 		- material 5-3 Transactions 100 minuts
-		- material 5-4 Transactins 100 minuts
+		- material 5-4 Transactions 100 minuts
 		- assignment 5-2 Two-phase locking and snapshot isolation 100 minuts
 		- repàs 100 minuts	
 		- test 100 minuts

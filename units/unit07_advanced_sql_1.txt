@@ -1,35 +1,22 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Introduction to the Relational Model
-		- Durada: 20 hores. De 07.10 a 22.10.
+		- Títol: Intermediate SQL 2.
+		- Durada: 24 hores. De 24.01 a 13.02.
 		- Activitats relacionades amb els següents
 			- Continguts
-				- Structure of Relational Databases
-				- Database Schema
-				- Keys
-				- Schema Diagrams
-				- Relational Query Languages
-				- Relational Operations
+				- SQL statements in a java application
 			- Resultats d'aprenentatge
-				- RA2 Dissenya models lògics normalitzats interpretant diagrames entitat / relació.
-				- 2b S'han utilitzat eines gràfiques per a representar el disseny lògic.
-				- 2c S'han identificat les taules del disseny lògic.
-				- 2d S'han identificat els camps que formen part de les taules del disseny lògic.
-				- 2f S'han definit els camps clau.
+				- RA Programa una aplicació amb java que es connecta i interactua amb una base de dades.
+				- S'ha connectat a una base de dades des d'un programa java i ha interactuat amb la base de dades.
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
 2. Activitats didàctiques
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
-		- 1 magistral/diapositives 100 minuts
-		- assignment 2-1 150 minuts
-		- assignment 2-2 150 minuts
-		- assignment 2-3 150 minuts
-		- assignment 2-4 150 minuts
-		- repàs 100 minuts	
-		- test 100 minuts
-		- correcció 100 minuts
+		- material 7-1 SQL statements in a java application 100 minuts
+		- assignment 7-1 JDBC project 900 minuts
+		- assignment 7-2 JDBC project video explanation 200 minuts
 	- Exemples
 	- Avaluació i qualificació
 		- Tota l'activitat és avaluable
@@ -41,10 +28,9 @@
 			- autoavaluació
 			- avaluació 360
 		- Qualificació
-			- 50% tasca 
+			- 100% tasca 
 				- 50% mínim exigit
 				- 50% tasca oberta
-			- 50% test
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
