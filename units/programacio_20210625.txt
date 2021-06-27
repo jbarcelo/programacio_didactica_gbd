@@ -50,10 +50,13 @@
 	- anglès
 8.- Metodologia centrada en l'alumne.
 9.- Activitats obertes per coherència metodològica.
-10.- Atenció a la diversitat
+10.- Distribució temporal
+	- unitats al calendari
+	- activitats al quadern d'activitats
+11.- Atenció a la diversitat
 	- activitats obertes, dificultat ajustable
 	- ajuda entre companys, win-win
-11.- Material: llibre, diapositives, tasques, altres, moodle, classroom.
+12.- Material: llibre, diapositives, tasques, altres, moodle, classroom.
 
 - Comiat
 - (Opcional) Quadern d'activitats
