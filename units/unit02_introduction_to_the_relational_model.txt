@@ -16,6 +16,7 @@
 				- 2c S'han identificat les taules del disseny lògic.
 				- 2d S'han identificat els camps que formen part de les taules del disseny lògic.
 				- 2f S'han definit els camps clau.
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -23,10 +24,10 @@
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
 		- 1 magistral/diapositives 100 minuts
-		- assignment 2-1 150 minuts
-		- assignment 2-2 150 minuts
-		- assignment 2-3 150 minuts
-		- assignment 2-4 150 minuts
+		- assignment 2-1 Installing a Relational Database 150 minuts
+		- assignment 2-2 Keys 150 minuts
+		- assignment 2-3 Relational Diagram 150 minuts
+		- assignment 2-4 Relational Algebra 150 minuts
 		- repàs 100 minuts	
 		- test 100 minuts
 		- correcció 100 minuts
@@ -45,6 +46,7 @@
 				- 50% mínim exigit
 				- 50% tasca oberta
 			- 50% test
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

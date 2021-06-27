@@ -12,6 +12,7 @@
 				- 5f S'ha reconegut el funcionament de les transaccions.
 				- 5g S'han anul·lat parcialment o totalment els canvis produïts per una transacció.
 				- A més, es treballen aspectes que no aparèixen a la normativa, com autorització i rols.
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -41,6 +42,7 @@
 		- Qualificació
 			- 50% tasca 
 			- 50% test
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

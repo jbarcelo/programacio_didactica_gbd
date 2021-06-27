@@ -14,6 +14,7 @@
 				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
 				- 5f S'ha reconegut el funcionament de les transaccions.
 				- 5g S'han anul·lat parcialment o totalment els canvis produïts per una transacció.
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -45,6 +46,7 @@
 				- 50% mínim exigit
 				- 50% tasca oberta
 			- 50% test
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

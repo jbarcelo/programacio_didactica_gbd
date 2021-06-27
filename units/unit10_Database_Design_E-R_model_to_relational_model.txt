@@ -19,7 +19,7 @@
 				- 3g S'han utilitzat assistents i eines gràfiques.
 				- 3h S'ha utilitzat el llenguatge de definició de dades.
 				- 3i S'ha definit i documentat el diccionari de dades
-				
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -41,6 +41,7 @@
 			- 100% tasca 
 				- 50% mínim exigit
 				- 50% tasca oberta
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

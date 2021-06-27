@@ -25,6 +25,7 @@
 				- 1d S’ha reconegut la utilitat d’un sistema gestor de bases de dades.
 				- 1e S’ha descrit la funció de cada un dels elements d’un sistema gestor de bases de dades.
 				- 1f S’han classificat els sistemes gestors de bases de dades.
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -37,7 +38,7 @@
 			- Exemples de bases de dades.
 			- Motors de bases de dades.
 		- 3 magistral/diapositives 100 minuts
-		- 4 tasca 400 minuts
+		- 4 assignment Introduction to Databases 400 minuts
 		- 5 repàs 100 minuts	
 		- 6 test 50 minuts
 		- 7 correcció 50 minuts
@@ -56,6 +57,7 @@
 				- 50% mínim exigit
 				- 50% tasca oberta
 			- 50% test
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

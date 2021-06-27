@@ -15,6 +15,7 @@
 				- 4g S'han valorat els avantatges i inconvenients de les diferents opcions vàlides per dur a terme una consulta determinada.
 				- RA5 Modifica la informació emmagatzemada utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.
 				- 5c S'ha inclòs en una taula la informació resultant de l'execució d'una consulta.
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -40,6 +41,7 @@
 			- avaluació 360
 		- Qualificació
 			- 100% test
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional

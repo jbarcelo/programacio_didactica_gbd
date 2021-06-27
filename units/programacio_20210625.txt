@@ -27,6 +27,8 @@
 		- E-R
 		- relacional
 		- transformació d'E-R a relacional
+		- normalització
+	- Alumnes dual necessiten SQL en arribar a l'organització.
 5.- Procediments d'avaluació
 	- professor-alumne
 	- autoavaluació
@@ -45,9 +47,13 @@
 		- possibilitat de defensa oral
 7.- Aprenentatge basat en tasques. "Aprendre fent".
 	- competències, continguts
+	- anglès
 8.- Metodologia centrada en l'alumne.
 9.- Activitats obertes per coherència metodològica.
 10.- Atenció a la diversitat
 	- activitats obertes, dificultat ajustable
 	- ajuda entre companys, win-win
 11.- Material: llibre, diapositives, tasques, altres, moodle, classroom.
+
+- Comiat
+- (Opcional) Quadern d'activitats

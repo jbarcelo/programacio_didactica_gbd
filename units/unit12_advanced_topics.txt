@@ -19,6 +19,7 @@
 				- 6f S'han importat dades amb diferents formats.
 				- 6g S'ha interpretat correctament la informació subministrada pels missatges d'error i els fitxers de registre.
 				- 6h S'ha transferit informació entre sistemes gestors.
+			- Anglès
 		- Metodologia
 			- Centrada en l'alumne.
 			- Aprendre fent.
@@ -40,6 +41,7 @@
 			- 100% tasca 
 				- 50% mínim exigit
 				- 50% tasca oberta
+			- Anglès
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
