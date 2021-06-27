@@ -61,3 +61,5 @@
 	- Coherència amb la programació
 		- la UT i la metodologia s'han agafat directament de la programació.
 		- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
+
+(opcional) mostrar classroom
