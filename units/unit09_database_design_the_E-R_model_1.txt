@@ -22,7 +22,8 @@
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
 		- slides 9-1 magistral 100 minutes.
 		- material 9-1 E-R diagram tool 200 minutes.
-		- assignment 9-1 Create an ERD 700 minutes.
+		- material 9-2 E-R exercises 200 minutes.
+		- assignment 9-1 Create an ERD 500 minutes.
 		- assignment 9-2 Defend your ERD 200.
 	- Exemples
 	- Avaluació i qualificació
