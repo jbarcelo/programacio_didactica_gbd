@@ -17,9 +17,7 @@
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
 		- material 8-1 PostgreSQL 100 minutes.
-		- material 8-2 PostgreSQL Stored Procedure Getting Started 100 minutes.
-		- material 8-3 PostgreSQL Stored Procedures User Defined Functions 100 minutes.
-		- material 8-4 PostgreSQL Stored Procedures Control Structures 100 minutes.
+		- material 8-2 PostgreSQL PL/pgSQL 100 minutes.
 		- assignment 8-1 Create a funtion 200 minutes.
 		- assignment 8-2 Function defense 200 minutes.
 		- assignment 8-3 Create a cursor, a stored procedure and a trigger 200 minutes.
