@@ -1,6 +1,6 @@
 1. Context de la UT
 	- Introducció de la UT
-		- Títol: Advanced SQL 2
+		- Títol: Advanced SQL 1
 		- Durada: 24 hores. De 24.01 a 13.02.
 		- Activitats relacionades amb els següents
 			- Continguts
