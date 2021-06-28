@@ -23,8 +23,8 @@
 		- diapositives/magistrals 100 minutes.
 		- material 11-1 Exercises 500 minutes
 		- material 11-2 Solution 100 minutes
-		- assignment 10-1 Normalization 300 minutes.
-		- assignment 10-2 Defend your ERD 200.
+		- assignment 11-1 Normalization 300 minutes.
+		- assignment 11-2 Defend your ERD 200.
 	- Exemples
 	- Avaluació i qualificació
 		- Tota l'activitat és avaluable
