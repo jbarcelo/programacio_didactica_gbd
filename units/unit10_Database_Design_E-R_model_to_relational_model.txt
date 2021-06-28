@@ -26,7 +26,8 @@
 2. Activitats didàctiques
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
-		- assignment 10-1 ERM to Relational Model 1000 minutes.
+		- material 10-1 E-R to relational exercises 300 minutes.
+		- assignment 10-1 ERM to Relational Model 700 minutes.
 		- assignment 10-2 Defend your ERD 200 minutes.
 	- Exemples
 	- Avaluació i qualificació
