@@ -1,5 +1,5 @@
-1. Context de la UT
-	- Introducció de la UT
+1. Context de la UD
+	- Introducció de la UD
 		- Títol: Introduction to SQL 2
 		- Durada: 20 hores. De 12.11 a 28.11.
 		- Activitats relacionades amb els següents
@@ -43,6 +43,6 @@
 			- Anglès
 	- atenció a la diversitat: activitat oberta, ajuda dels companys, lloc de l'aula, temps addicional
 	- Coherència amb la programació
-		- la UT i la metodologia s'han agafat directament de la programació.
+		- la UD i la metodologia s'han agafat directament de la programació.
 
 (opcional) mostrar classroom

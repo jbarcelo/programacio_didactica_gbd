@@ -4,13 +4,14 @@
 	- mòdul impartit el curs 2019-2020
 2.- Normativa
 	- reial decret, ordre
-	- punt de partida
-		- relacionals, MariaDB, PostgreSQL+
-		NoSQL, MongoDB, Docker
+	- objectius, competències, orientacions pedagòques, continguts, resultats d'aprenentatge, criteris d'avaluació.
+	%- punt de partida
+		%- relacionals, MariaDB, PostgreSQL+
+		%NoSQL, MongoDB, Docker
 3.- Contextualització
 	- ASIX, Borja Molls, Anglès, dual
 4.- Continguts
-	- 12 unitats de treball. 16-24 hores.
+	- 12 unitats didàctiques. 16-24 hores.
 	- SQL
 		- DDL
 		- DCL
