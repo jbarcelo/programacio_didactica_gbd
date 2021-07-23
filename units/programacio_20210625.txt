@@ -9,9 +9,9 @@
 		%- relacionals, MariaDB, PostgreSQL+
 		%NoSQL, MongoDB, Docker
 3.- Contextualització
-	- ASIX, Borja Molls, Anglès, dual
+	- ASIX, Borja Moll, anglès, dual
 4.- Continguts
-	- 12 unitats didàctiques. 16-24 hores.
+	- 12 unitats didàctiques. 16-24 hores. Temporització més detallada a la carpeta d'unitats didàctiques.
 	- SQL
 		- DDL
 		- DCL
@@ -52,12 +52,13 @@
 8.- Metodologia centrada en l'alumne.
 9.- Activitats obertes per coherència metodològica.
 10.- Distribució temporal
-	- unitats al calendari
+	- UDs al calendari
 	- activitats al quadern d'activitats
 11.- Atenció a la diversitat
 	- activitats obertes, dificultat ajustable
 	- ajuda entre companys, win-win
 12.- Material: llibre, diapositives, tasques, altres, moodle, classroom.
 
-- Comiat
+- Agraïment
+- Impressió del moodle
 - (Opcional) Quadern d'activitats

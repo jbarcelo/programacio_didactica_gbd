@@ -31,9 +31,10 @@
 	- Seqüenciació i temporització
 		- Es reserven 5 minuts al principi i final de cada sessió de 110 minuts per engegar/apagar ordinadors, dubtes, feedback, etc.
 		- 1 magistral/diapositives 100 minuts
-		- assignment 3-1 Create a Database 200 minuts
-		- assignment 3-2 A Dockerized Database200 minuts
-		- assignment 3-3 School Database Script 200 minuts
+		- assignment 3-1 Create a Database 150 minuts
+		- assignment 3-2 A Dockerized Database 150 minuts
+		- assignment 3-3 School Database Script 150 minuts
+		- assignment 3-4 Set Operators 150 minuts
 		- repàs 100 minuts	
 		- test 100 minuts
 		- correcció 100 minuts
