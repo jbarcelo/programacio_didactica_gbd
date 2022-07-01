@@ -1,0 +1,122 @@
+Learning outcomes and evaluation criteria.
+
+1. Recognizes the elements of databases analyzing their functions and assessing the usefulness of management systems.
+
+Evaluation criteria:
+
+a) The different logical storage systems and their functions have been analyzed.
+
+b) The different types of databases have been identified according to the data model used.
+
+c) The different types of databases have been identified based on the location of the information.
+
+d) The usefulness of a database management system has been recognized.
+
+e) The function of each of the elements of a database management system has been described.
+
+f) Database management systems have been classified.
+
+2. Design normalized logical models interpreting entity/relationship diagrams.
+
+Evaluation criteria:
+
+a) The meaning of the symbology of the entity/relationship diagrams has been identified.
+
+b) Graphic tools have been used to represent the logical design.
+
+c) The logical design tables have been identified.
+
+d) The fields that are part of the logical design tables have been identified.
+
+e) The relationships between the tables of the logical design have been identified.
+
+f) The key fields have been defined.
+
+g) Integrity rules have been applied.
+
+h) Normalization rules have been applied to an appropriate level.
+
+i) Constraints that cannot be captured in the logical design have been identified and documented.
+
+3. Performs the physical design of databases using wizards, graphical tools and the data definition language.
+
+Evaluation criteria:
+
+a) The physical storage structures have been defined.
+
+b) Tables have been created.
+
+c) The appropriate data types have been selected.
+
+d) The key fields in the tables have been defined.
+
+e) All the restrictions reflected in the logical design have been implemented.
+
+f) It has been verified by means of a set of test data that the implementation conforms to the model.
+
+g) Wizards and graphic tools have been used.
+
+h) The data definition language has been used.
+
+i) The data dictionary has been defined and documented.
+
+4. Consult the stored information using assistants, graphic tools and the data manipulation language.
+
+Evaluation criteria:
+
+a) The tools and sentences to carry out queries have been identified.
+
+b) Simple queries have been made on a table.
+
+c) Queries have been made that generate summary values.
+
+d) The contents of several tables have been queried using inner joins.
+
+e) The contents of several tables have been queried using outer joins.
+
+f) Queries with subqueries have been made.
+
+g) The advantages and disadvantages of the different valid options to carry out a specific query have been assessed.
+
+5. Modifies stored information using wizards, graphical tools, and the data manipulation language.
+
+Evaluation criteria:
+
+a) The tools and statements to modify the content of the database have been identified.
+
+b) Data has been inserted, deleted and updated in the tables.
+
+c) The information resulting from the execution of a query has been included in a table.
+
+d) Measures have been adopted to maintain the integrity and consistency of the information.
+
+e) Scripts have been designed to carry out complex tasks.
+
+f) The functioning of the transactions has been recognized.
+
+g) The changes produced by a transaction have been partially or totally cancelled.
+
+h) The effects of the different record blocking policies have been identified.
+
+6. Performs information assurance tasks, analyzing them and applying safeguard and transfer mechanisms.
+
+Evaluation criteria:
+
+a) Graphical and command-line tools for managing backups have been identified.
+
+b) Backups have been made.
+
+c) Backups have been restored.
+
+d) Tools for importing and exporting data have been identified.
+
+e) Data has been exported to various formats.
+
+f) Data with different formats have been imported.
+
+g) The information provided by the error messages and the log files has been correctly interpreted.
+
+h) Information has been transferred between management systems.
+
+
+
